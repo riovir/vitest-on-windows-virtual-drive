@@ -1,0 +1,17 @@
+{
+  "name": "vitest-on-windows-virtual-drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "debug": "vitest run --config debug.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "0.33.0"
+  }
+}

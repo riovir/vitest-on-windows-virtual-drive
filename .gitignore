@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# NPM cache directory
+.npm/
+
+# Distribution
+dist/
+
+# Test coverage reports
+coverage/
+
+# Local development utility directory
+local/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDEs
+
+## IntelliJ IDEA project directory
+.idea/
+
+## Visual Studio Code / local history plugin
+.history/
+
+## GitLab pages firectory
+public/
+
+## Local .npmrc
+.npmrc
